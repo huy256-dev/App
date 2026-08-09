@@ -1,0 +1,6 @@
+{
+  "name": "Nền tảng Hỗ trợ Học tập Tích hợp AI",
+  "description": "Hệ thống cá nhân hóa lộ trình học tập và đánh giá năng lực dựa trên thuật toán Cây quyết định (Decision Tree - Entropy/Gini Index).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
